@@ -1,2 +1,2 @@
 # computer-sience
-cs 지식의 정석 내용 정리
+디자인 패턴 개념 정리
